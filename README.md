@@ -1,2 +1,2 @@
-# Project-2-java-
+# Project-2
 Home Inventory manager project
